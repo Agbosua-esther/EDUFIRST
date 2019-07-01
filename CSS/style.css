@@ -5,11 +5,12 @@
   .topnav a{
       float: left;
       display: block;
-      color: #f2f2f2;
+     /* color: #f2f2f2;
+     */
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
-      font-size: 17px;
+      font-size: 20px;
       text-transform: capitalize;
       list-style: none;
 
@@ -17,12 +18,13 @@
   .topnav a:hover{
       background-color:linen;
 }
- .description{
+ /* .description{
      text-align: center;
      font-size: 15px;
      font-style: normal;
  }
 
+ */
 
  .container1{
      background-color: bisque;
